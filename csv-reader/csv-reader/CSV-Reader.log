@@ -1,8 +1,0 @@
-Tem 14, 2022 11:21:54 ÖS main.MyLogger initialize
-INFO: Logger Initialized
-Tem 14, 2022 11:21:54 ÖS main.MyLogger writeWarning
-WARNING: Syntax error at this line: sfklnsdkjf
-Tem 14, 2022 11:21:54 ÖS main.MyLogger writeWarning
-WARNING: File with this name already exist: \home\isil\out1\a.docx
-Tem 14, 2022 11:21:54 ÖS main.Main main
-INFO: End of Program
